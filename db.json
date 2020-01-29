@@ -10,13 +10,13 @@
   ],
   "profile": {
     "name": "typicode"
-  }
-  "navBar":[
+  },
+  "navBar":  [
     {
 	"label": 'Products',
 	"href": '/products',
 	"role": 'menuitem',
-	"subMenu":[]
+	"subMenu": []
 	}
   ]
 }

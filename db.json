@@ -1,197 +1,22 @@
 {
-"navBar": [
-  {
-    "label": 'Products',
-    "href": '/products',
-    "role": 'menuitem',
-    "subMenu": [
-      {
-        "label": 'Columns',
-        "href": '/products/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/products/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/products/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/products/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/products/columns',
-        "role": 'subMenu'
-      }
-    ]
-  },
-  {
-    "label": 'Services',
-    "href": '/services',
-    "role": 'menuitem',
-    "subMenu": [
-      {
-        "label": 'Columns',
-        "href": '/services/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/services/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/services/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/services/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/services/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/services/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/services/columns',
-        "role": 'subMenu'
-      }
-    ]
-  },
-  {
-    "label": 'Support',
-    "href": '/support',
-    "role": 'menuitem',
-    "subMenu": [
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/support/columns',
-        "role": 'subMenu'
-      }
-    ]
-  },
-  {
-    "label": 'Education',
-    "href": '/education',
-    "role": 'menuitem',
-    "subMenu": [
-      {
-        "label": 'Columns',
-        "href": '/education/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/education/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/education/columns',
-        "role": 'subMenu'
-      }
-    ]
-  },
-  {
-    "label": 'Library',
-    "href": '/library',
-    "role": 'menuitem',
-    "subMenu": [
-      {
-        "label": 'Columns',
-        "href": '/library/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/library/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/library/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/library/columns',
-        "role": 'subMenu'
-      }
-    ]
-  },
-  {
-    "label": 'About Waters',
-    "href": '/about-waters',
-    "role": 'menuitem',
-    "subMenu": [
-      {
-        "label": 'Columns',
-        "href": '/about-waters/columns',
-        "role": 'subMenu',
-      },
-      {
-        "label": 'Columns',
-        "href": '/about-waters/columns',
-        "role": 'subMenu'
-      }
-    ]
-  },
-  {
-    "label": 'shop',
-    "href": '/shop',
-    "role": 'menuitem',
-    "subMenu": []
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+  "navBar":[
+    {
+	"label": 'Products',
+	"href": '/products',
+	"role": 'menuitem',
+	"subMenu":[]
+	}
   ]
 }

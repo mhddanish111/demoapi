@@ -28,9 +28,9 @@
       {
         "label": 'Columns',
         "href": '/products/columns',
-        "role": 'subMenu',
-      },
-    ],
+        "role": 'subMenu'
+      }
+    ]
   },
   {
     "label": 'Services',
@@ -70,9 +70,9 @@
       {
         "label": 'Columns',
         "href": '/services/columns',
-        "role": 'subMenu',
-      },
-    ],
+        "role": 'subMenu'
+      }
+    ]
   },
   {
     "label": 'Support',
@@ -117,9 +117,9 @@
       {
         "label": 'Columns',
         "href": '/support/columns',
-        "role": 'subMenu',
-      },
-    ],
+        "role": 'subMenu'
+      }
+    ]
   },
   {
     "label": 'Education',
@@ -139,9 +139,9 @@
       {
         "label": 'Columns',
         "href": '/education/columns',
-        "role": 'subMenu',
-      },
-    ],
+        "role": 'subMenu'
+      }
+    ]
   },
   {
     "label": 'Library',
@@ -166,9 +166,9 @@
       {
         "label": 'Columns',
         "href": '/library/columns',
-        "role": 'subMenu',
-      },
-    ],
+        "role": 'subMenu'
+      }
+    ]
   },
   {
     "label": 'About Waters',
@@ -183,15 +183,15 @@
       {
         "label": 'Columns',
         "href": '/about-waters/columns',
-        "role": 'subMenu',
-      },
-    ],
+        "role": 'subMenu'
+      }
+    ]
   },
   {
     "label": 'shop',
     "href": '/shop',
     "role": 'menuitem',
-    "subMenu": [],
-  },
+    "subMenu": []
+  }
   ]
 }
